@@ -1,0 +1,4 @@
+C:\Users\Renny\source\repos\HelloASPDotNET\obj\Debug\netcoreapp2.2\HelloASPDotNET.csprojAssemblyReference.cache
+C:\Users\Renny\source\repos\HelloASPDotNET\obj\Debug\netcoreapp2.2\HelloASPDotNET.AssemblyInfoInputs.cache
+C:\Users\Renny\source\repos\HelloASPDotNET\obj\Debug\netcoreapp2.2\HelloASPDotNET.AssemblyInfo.cs
+C:\Users\Renny\source\repos\HelloASPDotNET\obj\Debug\netcoreapp2.2\HelloASPDotNET.csproj.CoreCompileInputs.cache
